@@ -13,9 +13,9 @@ I am **Zakaria Bouchareb**, a beginner developer from Algeria passionate about *
 ---
 
 ## 📫 Contact Me
-- Instagram: @your_instagram_here  
+- Instagram: @zakaria_boucharebe
 - GitHub: [zakabrb](https://github.com/zakabrb)  
-- Email: zakaria.bouchareb@example.com
+- Email: zakabrb98@gmail.com
 
 ---
 
