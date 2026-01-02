@@ -1,23 +1,43 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Zakaria Bouchareb" width="150"/>
-</p>
+# Hi 👋 I'm Zakaria
 
-<h1 align="center">Hi, I'm Zakaria Bouchareb 👋</h1>
-<p align="center">Full-stack Web & App Developer | UI/UX Designer | Always Learning</p>
+![Programming Inspiration](https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg)
 
----
-
-### 🛠️ Skills
-- **Languages:** HTML, CSS, C++
+💻 Beginner Developer | 🌍 Algeria  
+🎯 Learning programming and web development
 
 ---
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://www.instagram.com/zakaria_boucharebe/"><img src="https://i.imgur.com/qiXu7b2.png" width="32" alt="Instagram"/></a>
-</p>
+## 🚀 Skills
+- C++  
+- HTML  
+- CSS  
 
 ---
 
-✨ **Always coding, always learning, and building cool stuff!**
+## 🛠 Tools & Technologies
 
+### 💻 Languages & Web
+- C++  
+- HTML  
+- CSS  
+
+### 🧰 Development Tools
+- Visual Studio Code  
+- Git  
+- GitHub  
+
+### 💻 Operating Systems
+- Windows  
+- macOS  
+
+### 🌐 Others
+- GitHub Pages
+
+---
+
+## 📫 Contact Me
+- Instagram: @zakaria_boucharebe
+
+---
+
+⭐️ Always learning and improving every day!
