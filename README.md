@@ -1,4 +1,3 @@
-# ![Zakaria Bouchareb](https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg)
 
 > I am **Zakaria Bouchareb**, a beginner developer from Algeria passionate about **Java, JavaScript, MySQL, C++, and Web Development (HTML & CSS)**. I enjoy learning new technologies, sharing knowledge, and improving my programming skills every day while building practical projects and gaining experience in software and web development.
 
